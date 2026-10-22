@@ -1,0 +1,26 @@
+
+# Large media and archive files
+*.mp4
+*.zip
+
+# Intro to Computer Vision - reference books and slides
+/1_Intro/CV_Szeliski.pdf
+/1_Intro/DIP_Gonzalez.pdf
+/1_Intro/IP_Sonka.pdf
+/1_Intro/Introduction to Vision.pdf
+
+# Digital Image Processing (DIP)
+/2_DIP/Codes/
+
+# Machine Learning (ML)
+/3_ML/Codes/
+
+# Deep Learning (DL) - YOLO results
+/4_DL/Yolo_Result/demo_predictions/
+/4_DL/Yolo_Result/zip/
+
+# Deep Learning (DL) - project environment and files
+/4_DL/DL_Project/venv/
+/4_DL/DL_Project/weights/
+/4_DL/DL_Project/uolo_plate_detection.ipynb
+/4_DL/DL_Project/yolov8n.pt
